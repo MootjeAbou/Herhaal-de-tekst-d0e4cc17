@@ -1,6 +1,6 @@
 <?php
 $ php hello.php
-echo "Hello World";
+echo "Hello Worldd";
 while(true){
   echo "Tekst in een variable\n", sleep(1);
 }

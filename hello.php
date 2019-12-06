@@ -1,7 +1,8 @@
 <?php
-$ php hello.php
-echo "Hello Worldd";
-while(true){
-  echo "Tekst in een variable\n", sleep(1);
-}
+$ tekst = "dit is een stuk tekst";
+echo $ tekst;
+echo $ tekst;
+echo $ tekst;
+echo $ tekst;
+echo $ tekst;
 ?>

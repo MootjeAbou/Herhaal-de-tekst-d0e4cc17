@@ -1,15 +1,15 @@
 <?php
 $tekst = "dit is een stuk tekst";
 
-echo $tekst;
+echo "$tekst \n";
 
-echo $tekst;
+echo "$tekst \n";
 
-echo $tekst;
+echo "$tekst \n";
 
-echo $tekst;
+echo "$tekst \n";
 
-echo $tekst;
+echo "$tekst \n";
 
-echo $tekst;
+echo "$tekst \n";
 ?>
